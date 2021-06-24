@@ -1,0 +1,12 @@
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/Main.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/enums/EnumDataType.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/model/FatDTO.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/service/storage/implement/FileLineStorage.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/utils/KeyUtil.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/model/DataBlockDTO.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/constants/Constant.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/enums/EnumFatType.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/enums/EnumOperationType.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/service/OSManager.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/service/storage/IStorage.java
+/Users/zhengnachuan/GitLab/MyFileSystem/src/main/java/utils/EditUtil.java
